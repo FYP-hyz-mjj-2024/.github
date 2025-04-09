@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://s2.loli.net/2025/02/21/KFh9pSTxQWcDJwO.png" height="80">
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EA2F7¢er=true&vCenter=true&width=435&lines=YOU+FOCUS+YOUR+WALK" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=2EA2F7¢er=true&vCenter=true&width=435&lines=YOU+FOCUS+YOUR+WALK" alt="Typing SVG"/>
   </div>
 </div>
  
