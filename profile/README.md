@@ -3,7 +3,12 @@
   <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&color=2EA2F7¢er=true&vCenter=true&width=435&lines=YOU+FOCUS+YOUR+WALK" alt="Typing SVG"/>
   </div>
+
+  <div>
+    <img src="./assets/readme_demo.gif" width=800 />
+  </div>
 </div>
+
  
 <!-- # Introduction
 YOU FOCUS YOUR WALK is a pedestrian cell phone usage detection system. Once deployed on the streets, it detects the postures and the hand images of pedestrians to determine whether they are using a cell phone. The face of those who are using the cell phone will be announced. -->
